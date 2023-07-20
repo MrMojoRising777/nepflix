@@ -1,0 +1,26 @@
+/* The Close Button */
+/* .close {
+    color: white;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+  } */
+
+  body {
+    padding: 25px;
+    background-color: white !important;
+    color: black !important;
+  }
+  
+  .dark-mode {
+    background-color: black !important;
+    color: white !important;
+  }
+
